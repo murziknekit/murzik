@@ -1,0 +1,6 @@
+string = input()
+while char in string:
+    print(char)
+else:
+    string == string + 1  
+   
