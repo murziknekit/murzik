@@ -1,0 +1,6 @@
+x = int(input())
+sum = 0
+while i in x:
+    y = int(input())
+    sum += y
+print(sum)
